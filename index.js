@@ -12,7 +12,7 @@ try {
         return;
     }
 }
-var provinceList = config.merge ? require('./allArea_marge') : require('./allArea_separate');
+var provinceList = config.merge ? require('./src/allArea_marge') : require('./src/allArea_separate');
 
 var result = [];
 var key = config.key ? config.key : 'des';
