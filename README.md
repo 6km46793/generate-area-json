@@ -19,5 +19,7 @@ provinceList：要过滤出的省份列表。
 
 ## 其他注意事项
 1 完整的数据是 ./src/allArea_merge.json 和 ./src/allArea_separate.json。
+
 2 ./src/provinceList.json 文件 有完整的省份名字列表和省份 code 列表，在新建任务的时候，可以考虑从此处拷贝一份，然后根据自己的需求删减。
+
 3 nodejs 运行方法： node index.js
