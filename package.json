@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/zhifuliu/generate-area-json/issues"
   },
-  "homepage": "https://github.com/zhifuliu/generate-area-json#readme"
+  "homepage": "https://github.com/zhifuliu/generate-area-json#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
