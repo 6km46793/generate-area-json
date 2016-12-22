@@ -1,8 +1,5 @@
 {
-    "merge": false,
-    "outputFileName": "output",
-    "key": "des",
-    "provinceNameList": [
+    "nameList": [
         "北京市",
         "天津市",
         "河北省",
@@ -38,7 +35,7 @@
         "香港特别行政区",
         "澳门特别行政区"
     ],
-    "provinceCodeList": [
+    "codeList": [
         "110000",
         "120000",
         "130000",
@@ -73,5 +70,6 @@
         "710000",
         "810000",
         "820000"
-    ]
+    ],
+    "description": "namelist 是省份的名字列表；codeList 是省份的 code。列表中安顺序排列的"
 }
