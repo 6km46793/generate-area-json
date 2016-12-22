@@ -1,0 +1,24 @@
+{
+  "name": "generate-area-json",
+  "version": "1.0.0",
+  "description": "生成部分省份列表",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhifuliu/generate-area-json.git"
+  },
+  "keywords": [
+    "area",
+    "node-area",
+    "python-area"
+  ],
+  "author": "zhifu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhifuliu/generate-area-json/issues"
+  },
+  "homepage": "https://github.com/zhifuliu/generate-area-json#readme"
+}
