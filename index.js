@@ -23,6 +23,8 @@ _.each(config.provinceList, function(item) {
     });
     if (temp) {
         result.push(temp);
+    } else {
+        console.log(item + '不在数据列表中，请确定name 或者 code 是否错误');
     }
 });
 
