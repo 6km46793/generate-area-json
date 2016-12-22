@@ -5,3 +5,4 @@ config.json
 
 # Don't track build output
 dist/
+output/*.json
